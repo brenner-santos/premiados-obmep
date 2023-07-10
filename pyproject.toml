@@ -8,6 +8,7 @@ packages = [{include = "premiados_obmep"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+scrapy = "^2.9.0"
 
 
 [tool.poetry.group.dev.dependencies]
